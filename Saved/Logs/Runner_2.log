@@ -245,4 +245,47 @@ nothing added to commit but untracked files present (use "git add" to track)
 [2015.03.21-09.32.19:054][838]LogAudio:Warning: Detected orphaned looping sound 'Fire01'.
 [2015.03.21-09.32.21:037][ 76]Cmd: RestartLevel
 [2015.03.21-09.32.21:045][ 77]LogNet: Browse: /Temp/Untitled_1?restart
-[2015.03.21-09.32.21:045][ 77]
+[2015.03.21-09.32.21:045][ 77]LogLoad: LoadMap: /Temp/Untitled_1
+[2015.03.21-09.32.21:063][ 77]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x000000E678F8DC60
+[2015.03.21-09.32.21:067][ 77]Cmd: MEM
+[2015.03.21-09.32.21:084][ 77]LogMemory: Platform Memory Stats for Windows
+[2015.03.21-09.32.21:084][ 77]LogMemory: Process Physical Memory: 972.22 MB used, 1347.09 MB peak
+[2015.03.21-09.32.21:084][ 77]LogMemory: Process Virtual Memory: 865.94 MB used, 1261.18 MB peak
+[2015.03.21-09.32.21:084][ 77]LogMemory: Physical Memory: 5039.48 MB used, 8143.87 MB total
+[2015.03.21-09.32.21:084][ 77]LogMemory: Virtual Memory: 1415.38 MB used, 134217728.00 MB total
+[2015.03.21-09.32.21:084][ 77]LogMemory: 
+[2015.03.21-09.32.21:084][ 77]Allocator Stats for TBB: (not implemented)
+[2015.03.21-09.32.21:086][ 77]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001096s)
+[2015.03.21-09.32.21:086][ 77]LogPlayLevel: PIE: World Init took: (0.000415s)
+[2015.03.21-09.32.21:086][ 77]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_1.Untitled_1 to /Temp/UEDPIE_0_Untitled_1.Untitled_1 (0.001634s)
+[2015.03.21-09.32.21:086][ 77]LogWorld: Game class is 'RunGameMode_C'
+[2015.03.21-09.32.21:087][ 77]LogAIModule: Creating AISystem for world Untitled_1
+[2015.03.21-09.32.21:089][ 77]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_1.Untitled_1 up for play (max tick rate 0) at 2015.03.21-05.32.21
+[2015.03.21-09.32.21:089][ 77]LogWorld: Bringing up level for play took: 0.001452
+[2015.03.21-09.32.34:262][654]LogAudio:Warning: Detected orphaned looping sound 'Fire01'.
+[2015.03.21-09.32.36:255][893]Cmd: RestartLevel
+[2015.03.21-09.32.36:263][894]LogNet: Browse: /Temp/Untitled_1?restart
+[2015.03.21-09.32.36:263][894]LogLoad: LoadMap: /Temp/Untitled_1
+[2015.03.21-09.32.36:281][894]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x000000E60C7C2F20
+[2015.03.21-09.32.36:285][894]Cmd: MEM
+[2015.03.21-09.32.36:302][894]LogMemory: Platform Memory Stats for Windows
+[2015.03.21-09.32.36:302][894]LogMemory: Process Physical Memory: 971.10 MB used, 1347.09 MB peak
+[2015.03.21-09.32.36:302][894]LogMemory: Process Virtual Memory: 864.78 MB used, 1261.18 MB peak
+[2015.03.21-09.32.36:302][894]LogMemory: Physical Memory: 5037.78 MB used, 8143.87 MB total
+[2015.03.21-09.32.36:302][894]LogMemory: Virtual Memory: 1420.20 MB used, 134217728.00 MB total
+[2015.03.21-09.32.36:302][894]LogMemory: 
+[2015.03.21-09.32.36:302][894]Allocator Stats for TBB: (not implemented)
+[2015.03.21-09.32.36:303][894]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001021s)
+[2015.03.21-09.32.36:304][894]LogPlayLevel: PIE: World Init took: (0.000466s)
+[2015.03.21-09.32.36:304][894]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_1.Untitled_1 to /Temp/UEDPIE_0_Untitled_1.Untitled_1 (0.001611s)
+[2015.03.21-09.32.36:304][894]LogWorld: Game class is 'RunGameMode_C'
+[2015.03.21-09.32.36:305][894]LogAIModule: Creating AISystem for world Untitled_1
+[2015.03.21-09.32.36:307][894]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_1.Untitled_1 up for play (max tick rate 0) at 2015.03.21-05.32.36
+[2015.03.21-09.32.36:307][894]LogWorld: Bringing up level for play took: 0.001510
+[2015.03.21-09.32.37:175][996]LogAudio:Warning: Detected orphaned looping sound 'Fire01'.
+[2015.03.21-09.32.37:175][996]LogAudio:Warning: Detected orphaned looping sound 'Fire01'.
+[2015.03.21-09.32.38:861][192]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x000000E60C7C3BA0
+[2015.03.21-09.41.28:305][942]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2015.03.21-09.42.23:502][289]LogActorComponent: UnregisterComponent: (/Engine/Transient.CharMoveComp) Not registered. Aborting.
+[2015.03.21-09.42.23:585][289]LogSavePackage: Save=12.970800ms
+[2015.03.21-09.42.23:585][289]LogSavePackage: Moving '../../../../../../Users/Doug/Documents/Unreal Projects/Runner 4.7/Saved/Untitled_1_Auto1037F35884DBE69F8F0CEE68124D772CE.tmp' to '../../../../../../Users/Doug/Documents/Unreal Projects/Runner 4.7/Saved/Aut
